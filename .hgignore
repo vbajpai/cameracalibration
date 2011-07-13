@@ -23,6 +23,7 @@ syntax:glob
 
 .DS_Store
 Icon?
+*.orig
 
 # Thumbnails
 ._*
