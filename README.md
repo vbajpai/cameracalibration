@@ -11,3 +11,8 @@ Run
 
 * Interactive Mode: `$ ./calibrate`
 * Batch Mode: `$ ./calibrate <filenames>`
+
+Documents
+---------
+
+* [Report](https://github.com/downloads/vbajpai/cameracalibration/report.pdf)
