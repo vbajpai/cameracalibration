@@ -1,5 +1,5 @@
-Camera Calibration
-==================
+[Tsai's Camera Calibration](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1087109&tag=1)
+-------------------------
 
 Build
 -----
