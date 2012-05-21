@@ -6,6 +6,8 @@
 #include <vector>
 #include <cstdlib>
 
+#include <stdio.h>
+
 #define HEIGHT 4
 #define WIDTH 6
 
