@@ -1,18 +1,39 @@
-[Tsai's Camera Calibration](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1087109&tag=1)
+[Zhang's Camera Calibration &rarr;](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1087109&tag=1)
 -------------------------
+- - -
 
 ![Imgur](http://i.imgur.com/ff2Iv.png)
 
-Build
------
 
-`$ g++ calibrate.cc -I/opt/local/include/opencv -L/opt/local/lib -lcv -lhighgui -lcxcore -Wall -o calibrate`
+Building on Mac OS X
+--------------------
+- - -
 
-Run
----
+	>> brew install opencv
+	
+	[imagefilters] >> make
+	
 
-* Interactive Mode: `$ ./calibrate`
-* Batch Mode: `$ ./calibrate <filenames>`
+Building on Ubuntu
+------------------
+- - -
+
+	>> sudo apt-get install libopencv-dev
+	
+	[imagefilters] >> make
+	
+Running
+-------
+- - -
+	
+interative mode  
+
+	>> bin/calibrate
+
+batch mode
+
+	>> bin/calibrate filename[s]
+
 
 Documents
 ---------
