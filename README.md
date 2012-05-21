@@ -1,4 +1,4 @@
-[Zhang's Camera Calibration &rarr;](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1087109&tag=1)
+[Zhang's Camera Calibration &rarr;](http://research.microsoft.com/en-us/um/people/zhang/calib/)
 -------------------------
 - - -
 
